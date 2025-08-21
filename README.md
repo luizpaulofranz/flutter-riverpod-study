@@ -39,4 +39,7 @@ This project is designed to help understand how to use Riverpod for state manage
 - [Riverpod Code Generation](https://riverpod.dev/docs/concepts/about_code_generation)
 - [Riverpod State Management](https://riverpod.dev/docs/concepts/reading)
 
+### Demo
 
+
+https://github.com/user-attachments/assets/eb675485-c08e-4f18-a763-00d238145210
