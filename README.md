@@ -1,6 +1,7 @@
 # Riverpod Ecommerce
 
 A simple Riverpod study project to understand state management with Riverpod and code generation.
+Based on this Net Ninja tutorial series: https://www.youtube.com/playlist?list=PL4cUxeGkcC9i88WGZ9eIfQUWRgPstLFLp
 
 ## Getting Started
 
