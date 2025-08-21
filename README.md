@@ -6,11 +6,6 @@ A simple Riverpod study project to understand state management with Riverpod and
 
 This project uses **Riverpod with code generation** for state management. Before running the app, you need to generate the necessary code files.
 
-### Prerequisites
-
-- Flutter 3.32.8 or higher
-- Dart 3.8.1 or higher
-
 ### Setup Instructions
 
 1. **Generate Code**: First, run the build runner to generate the necessary Riverpod code:
